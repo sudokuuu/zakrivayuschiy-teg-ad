@@ -72,7 +72,7 @@
   transition-delay: 0.05s;
 }
 
-/* клик — is-liked */
+/* клик is-liked */
 .like-icon.is-liked .core {
   fill: var(--heart-main-body);
   transition-delay: 0s;

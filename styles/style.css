@@ -38,7 +38,7 @@
 
 .header__title {
   padding-top: clamp(7.5rem, 7rem + 1.6vi, 8rem);
-  font-size: clamp(3.063rem, 2.063rem + 3.2vi, 4.063rem);
+  font-size: clamp(2.75rem, 2.063rem + 3.2vi, 4.063rem);
   text-transform: uppercase;
 }
 
@@ -244,7 +244,7 @@
 
 .floppy {
   flex-shrink: 0;
-  mix-blend-mode: difference;
+  color: var(--Themes-mainColor, #000000);
 }
 
 .text__popup {
